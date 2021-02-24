@@ -18,4 +18,5 @@ node src/app.js
 
 // Now open your browser and visit: localhost:8000
 
+This app was created by following youtube channel videos - Thapa Technical.
 
